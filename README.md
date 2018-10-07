@@ -3,9 +3,9 @@
 Since I bought my first own PC, I had problems deciding which kind of PC it should be. In recent years, this problem grew even stronger. Thanks to slim keybords and battery packs, completly new kinds of PCs (like tablet-computers) appeared and made it much harder to decide, which kind of PC is the most suitable for every situation. In my view, there are about different kinds of PCs:
 
 - Desktops (The well known "big boxes", which are connected to the monitor and mostly placed beside or beneath the table)
-- miniPCs ( quite similar to a desktop, but much smaller and less powerfull, normally placed on the table instead of beneath)
+- miniPCs ( Quite similar to a desktop, but much smaller and less powerfull, normally placed on the table instead of beneath, often used in offices)
+- towerPCs ( Just the opposite of the miniPC, big and powerfull, normally used by gamers and different kinds of creatives)
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
