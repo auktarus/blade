@@ -5,6 +5,7 @@ Since I bought my first own PC, I had problems deciding which kind of PC it shou
 - Desktops (The well known "big boxes", which are connected to the monitor, they were the first kind of PCs, which was created)
 - "Normal" laptops (A slim combination of screen, computer and keybord with a battery pack, used by all people, who need to travel with their PC)
 - Ultrabooks (extremly thin laptops with a very long battery life, constructed for beeing lightweight and independent from an office, but often they are not very powerful)
+- Desktop Replacements (pretty huge laptops with more or the same computing power, but sadly, they are mostly bold and don't have long battery life)
 - Convertibles (Very slim laptops, which can be _converted_ into a tablet in one way or another, therefore the name, some of them could also be considered as ultrabooks)
 
 In my view, the most admirable kind of PC are the high-end Ultrabooks: These combine maximum mobility with great computing power. In the following, I will write about the most interesting high-end Ultrabooks of our time.
