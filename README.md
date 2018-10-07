@@ -1,4 +1,4 @@
-## Welcome to my new blog (06.10.18)
+## Welcome to my new blog
 
 Since I bought my first own PC, I had problems deciding which kind of PC it should be. In recent years, this problem grew even stronger. Thanks to slim keybords and battery packs, completly new kinds of PCs (like so called _convertibles_) appeared and made it much harder to decide, which kind of PC is the most suitable for every situation. In my view, there are about different kinds of PCs:
 
