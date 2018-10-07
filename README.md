@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my new blog
 
-You can use the [editor on GitHub](https://github.com/auktarus/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since I bought my first own PC, I had problems deciding which kind of PC it should be. In recent years, this problem grew even stronger. Thanks to slim keybords and battery packs, completly new kinds of PCs (like tablet-computers) appeared and made it much harder to decide, which kind of PC is the most suitable for every situation.
 
 ### Markdown
 
