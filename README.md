@@ -13,11 +13,11 @@ In my view, the most admirable kind of PC are the high-end ultrabooks: These com
 ### First Entry (07.10.18): The Razer _Blade_-Series
 Have you ever wondered, why this blog is called _blade_? Well, the answer is quite simple: Out there is a great gaming peripherals manufacturer, called _RAZER_. But they offer also a very interesting laptop series, called _Blade_, just as this blog. This series includes an ultrabook, the so called _RAZER Blade Stealth_. And here is the interesting point: There is a second piece of hardware, the _RAZER Core_. With this, you can turn the very lightweight and slim ultrabook into a powerful GAMING MASHINE!!! Therefore, I called my block _blade_. You can find out more about the _RAZER Blade Stealth_ [here](https://www.razer.com/de-de/gaming-laptops/razer-blade-stealth?utm_source=google&utm_medium=ads&utm_content=DE&utm_campaign=EU-stealth-google-remarketing-de&cid=stealth_blade_rem&gclid=EAIaIQobChMIvprdob_v3QIViYbtCh3Q4gaTEAEYASAAEgLKEfD_BwE).
 
-| Tables        | Are           | Cool  || Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 || col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 || col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 || zebra stripes | are neat      |    $1 |
+| Tables        | Are           | Cool  | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 | col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 | col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 | zebra stripes | are neat      |    $1 |
 
 
 
