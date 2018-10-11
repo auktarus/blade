@@ -15,7 +15,7 @@ Have you ever wondered, why this blog is called _blade_? Well, the answer is qui
 Below you can find further information about the different variences of the _RAZER Blade Stealth_:
 
 | Display size💻| Colour🎨     | CPU🖥️         |Coolness😎   |   
-| ------------- |:-------------:| ------------- | -------------| 
+| ------------- |---------------| ------------- | -------------| 
 | 12.5"         | Black         | i7-7500U      |😎😎😎      |
 | 13.3"         | Black         | i7-7500U      |😎😎😎😎    |
 | 13.3"         | Black         | i7-8550U      |😎😎😎😎😎 | 
