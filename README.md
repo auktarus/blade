@@ -7,7 +7,7 @@ Since I bought my first own PC, I had problems deciding which kind of PC it shou
 - Ultrabooks (extremly thin laptops with a very long battery life, constructed for beeing lightweight and independent from an office, but often they are not very powerful)
 - Convertibles (Very slim laptops, which can be _converted_ into a tablet in one way or another, therefore the name, some of them could also be considered as ultrabooks)
 
-In my view, the most admirable kind of PC are the high-end ultrabooks: These combine maximum mobility with great computing power. In the following, I will write about the most interesting high-end ultrabooks of our time. see also my new blog about high-end-hardware: [CpGamesHardware](https://auktarus.github.io/aboutcpgameshardware/).
+In my view, the most admirable kind of PC are the high-end ultrabooks: These combine maximum mobility with great computing power. In the following, I will write about the most interesting high-end ultrabooks of our time. See also my new blog about high-end-hardware: [CpGamesHardware](https://auktarus.github.io/aboutcpgameshardware/).
 
 ![Image](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6172/6172316ld.jpg)
 ### First Entry (07.10.18): The Razer _Blade_-Series
